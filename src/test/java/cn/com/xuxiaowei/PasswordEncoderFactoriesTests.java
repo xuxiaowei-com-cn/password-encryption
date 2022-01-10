@@ -10,6 +10,7 @@ import org.springframework.security.crypto.password.PasswordEncoder;
  * 密码加密工厂
  *
  * @author xuxiaowei
+ * @see org.apache.commons.logging.LogFactory
  * @since 0.0.1
  */
 class PasswordEncoderFactoriesTests {
